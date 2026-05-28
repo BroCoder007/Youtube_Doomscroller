@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Youtube Doomscroller</string>
+    <string name="accessibility_service_description">Automatically scrolls through YouTube Shorts and Instagram Reels. Supports voice commands like "like" and "comments".</string>
+</resources>
