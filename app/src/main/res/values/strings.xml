@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Youtube Doomscroller</string>
-    <string name="accessibility_service_description">Automatically scrolls through YouTube Shorts and Instagram Reels. Supports voice commands like "like" and "comments".</string>
+    <string name="accessibility_service_description">Optional hands-free navigation for YouTube Shorts, Instagram Reels and TikTok. Reads visible playback controls to detect video completion and performs a swipe only during your active session. Voice commands require separate microphone permission. Content is not stored or transmitted by this app.</string>
 </resources>
